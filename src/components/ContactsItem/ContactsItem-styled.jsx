@@ -19,7 +19,7 @@ export const RemoveBtn = styled.button`
   padding: 4px;
   color: #000000;
   background-color: #ffffff;
-  border: 2px solid red;
+  border: 2px solid black;
   :hover,
   :focus {
     background-color: #ff0000;

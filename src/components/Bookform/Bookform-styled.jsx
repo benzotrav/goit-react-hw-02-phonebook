@@ -21,6 +21,7 @@ export const InputBox = styled(Field)`
   padding: 5px;
   border: none;
   border-radius: 5px;
+  box-shadow: 1px 1px 2px 0 black;
 `;
 
 export const SubmitBtn = styled.button`
